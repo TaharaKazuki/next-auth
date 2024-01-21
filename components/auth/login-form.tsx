@@ -44,7 +44,7 @@ export const LoginForm = () => {
           onSubmit={form.handleSubmit(onSubmit)}
           className="space-y-6"
         >
-          <div className="space-x-4">
+          <div className="space-y-4">
             <FormField
               control={form.control}
               name="email"
