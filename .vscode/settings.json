@@ -7,5 +7,5 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
-  "cSpell.words": ["hookform", "tailwindcss"]
+  "cSpell.words": ["hookform", "Signin", "tailwindcss"]
 }
